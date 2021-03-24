@@ -13,10 +13,13 @@ Use common datasets, like CMNIST. Code while following online tutorials. Slightl
 7. Run python scripts in virtual environment
 8. Deactivate virtual environment when done
 9. Use the command 'Set-ExecutionPolicy Restricted' in order to restrict privileges after finishing
+
 Note: Sometimes, a message saying that a GPU is needed may show up, but can ignore messages with Information and Warning Tags
 
 # Sources
 
 https://www.tensorflow.org/install/pip#windows
+
 https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html
+
 https://aigeekprogrammer.com/binary-classification-using-logistic-regression-and-keras/
